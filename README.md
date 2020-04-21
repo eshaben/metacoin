@@ -1,3 +1,3 @@
 # metacoin is meta
 
-ooooooo
+T oooooooK
