@@ -1,3 +1,3 @@
 # metacoin is meta
 
-EAT SOME FOOD
+EAT SOME FOOD now
