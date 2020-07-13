@@ -5,7 +5,3 @@ test
 winner, winner, chicken dinner!!
 testt
 test
-test
-test
-test
-test
